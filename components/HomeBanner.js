@@ -62,7 +62,7 @@ export default function HomeBanner({ title, description, image }) {
       <Image src={`/assets/${image}`} alt="Banner" layout="fill" objectFit="cover" />
       <BannerOverlay />
       <BannerContent>
-        <Cc>Elam Al Aemal Document Clearing Co.</Cc>
+        <Cc>Elam Al Aemal Document Clearing Services Co</Cc>
         <Title>{title}</Title>
         <Description>{description}</Description>
       </BannerContent>
