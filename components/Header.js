@@ -84,7 +84,7 @@ export default function Header() {
     <StyledHeader>
       <Center>
         <Wrapper>
-          <Logo href={'/'}><Image src={'/second.png'} width={90} height={60}></Image></Logo>
+          <Logo href={'/'}><Image src={'/logo.jpg'} width={90} height={60}></Image></Logo>
           <StyledNav mobileNavActive={mobileNavActive}>
             <NavLink href={'/'}>Home</NavLink>
             {/* <NavLink href={'/service'}>Services</NavLink> */}
